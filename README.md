@@ -1,4 +1,4 @@
 wiki
 ====
 
-https://github.com/wrd/wiki/wiki
+https://github.com/wrdrd/wiki/wiki
